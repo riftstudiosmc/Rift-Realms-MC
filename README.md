@@ -24,5 +24,3 @@ To install Rift Realms, go to the **Releases** section, download the **launcher*
 Sometimes antivirus programs might flag it as a virus, but this is a **false positive** caused by how the launcher loads assets and runs background processes. Rift Realms is completely safe, **open source**, and **free to play**, so anyone can check the code themselves to confirm it’s clean and trustworthy.
 
 AND HAVE FUN!
-
-message @inc for suggestions
