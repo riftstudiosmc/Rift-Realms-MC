@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/riftstudiosmc/Rift-Realms-MC/raw/7a09a6c7577721bc1c74be67731816295d122a58/d4992e95-d30e-4d9f-b2d3-8e47d8eb032a.png" alt="Rift Realms Banner">
+</p>
 To install Rift Realms, go to the **Releases** section, download the **launcher**, and run it to set everything up automatically. The launcher handles all the files for you, making it easy to start exploring the new dimensions right away.
 
 🌌 Multiple Dimensions – Travel through portals to floating islands, crystal caves, and corrupted void realms.
